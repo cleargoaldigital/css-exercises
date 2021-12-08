@@ -1,0 +1,19 @@
+.para {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, sans-serif;
+  }
+  
+  .para-cool {
+    font-size: 24px;
+  }
+  
+  #divi {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  
+  #lastdivi {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+  }
